@@ -1,5 +1,5 @@
 # fluid_bounce
-A simulation of a bouncing ball made of a fluid, gelatinous substance that deforms in the presence of external forces.
+A simulation of a bouncing ball made of a fluid, gelatinous substance that deforms in the presence of external forces. A personal project.
 ### Controls
 a - Moves the ball to the left of the screen.\
 d - Moves the ball to the right of the screen.\
